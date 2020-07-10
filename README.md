@@ -1,12 +1,16 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/sbis04/sbis04/raw/master/images/header_no_shadow.png" alt="Header" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/sbis04/sbis04/raw/master/images/work_2.png" alt="Role" />
 </p> -->
 
-Hi there!
+<p align="center">
+  <img src="https://github.com/sbis04/sbis04/raw/master/images/role_header.gif" alt="Role" />
+</p>
+
+<!-- Hi there! -->
 
 <!--
 **sbis04/sbis04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
