@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/articles_1.gif" alt="Articles" />
+  <a href="https://blog.codemagic.io"><img src="https://github.com/sbis04/sbis04/raw/master/images/articles_1.gif" alt="Articles" /></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/bottom_bar.png" alt="Role" />
+  <a href="https://github.com/sbis04?tab=repositories"><img src="https://github.com/sbis04/sbis04/raw/master/images/bottom_bar.png" alt="Role" /></a>
 </p>
 
 <!-- Hi there! -->
