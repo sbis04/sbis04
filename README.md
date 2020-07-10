@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/work_1.png" alt="Header" />
+  <img src="https://github.com/sbis04/sbis04/raw/master/images/work_w.png" alt="Role" />
 </p>
 
 <!--
