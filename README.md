@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/header.png" alt="Header" />
+  <img src="https://github.com/sbis04/sbis04/raw/master/images/header_1.png" alt="Header" />
 </p>
 
 <!--
