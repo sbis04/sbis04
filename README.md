@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/role_header.gif" alt="Role" />
+  <img src="https://github.com/sbis04/sbis04/raw/master/images/role_header_1.gif" alt="Role" />
 </p>
 
 <!-- Hi there! -->
