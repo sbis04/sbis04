@@ -17,6 +17,10 @@
   <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png" alt="WhatsApp" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/sbis04/sbis04/raw/master/images/bottom_bar.png" alt="Role" />
+</p>
+
 <!-- Hi there! -->
 
 <!--
