@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/articles.gif" alt="Articles" />
+  <img src="https://github.com/sbis04/sbis04/raw/master/images/articles_1.gif" alt="Articles" />
 </p>
 
 <p align="center">
-  <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" />  
-  <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png" alt="LinkedIn" />  
-  <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/youtube_ic.png" alt="YouTube" />  
+  <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" />   
+  <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png" alt="LinkedIn" />   
+  <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/youtube_ic.png" alt="YouTube" />   
   <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png" alt="WhatsApp" />
 </p>
 
