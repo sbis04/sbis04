@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" />
+  <a href="https://twitter.com/sbis04"><img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" /></a>
   <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png" alt="LinkedIn" />   
   <img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/youtube_ic.png" alt="YouTube" />   
   <img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png" alt="WhatsApp" />
