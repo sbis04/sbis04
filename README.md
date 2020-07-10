@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/header_no_shadow.png" alt="Header" />
+  <a href="https://www.souvikbiswas.com"><img src="https://github.com/sbis04/sbis04/raw/master/images/header_no_shadow.png" alt="Header" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/role_header_2.png" alt="Role" />
+  <a href="https://blog.codemagic.io"><img src="https://github.com/sbis04/sbis04/raw/master/images/role_header_2.png" alt="Role" /></a>
 </p>
 
 <p align="center">
