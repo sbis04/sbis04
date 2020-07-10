@@ -2,12 +2,12 @@
   <img src="https://github.com/sbis04/sbis04/raw/master/images/header_no_shadow.png" alt="Header" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/work_2.png" alt="Role" />
-</p> -->
+<p align="center">
+  <img src="https://github.com/sbis04/sbis04/raw/master/images/role_header.png" alt="Role" />
+</p>
 
 <p align="center">
-  <img src="https://github.com/sbis04/sbis04/raw/master/images/role_header_1.gif" alt="Role" />
+  <img src="https://github.com/sbis04/sbis04/raw/master/images/articles.gif" alt="Articles" />
 </p>
 
 <!-- Hi there! -->
