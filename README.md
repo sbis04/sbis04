@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://codemagic.io/flutter-libraries-ebook"><img src="https://github.com/sbis04/sbis04/raw/master/images/sample_apps_promo.png" alt="Sample Promo" /></a>
+  <a href="https://github.com/sbis04/top_flutter_libraries"><img src="https://github.com/sbis04/sbis04/raw/master/images/sample_apps_promo.png" alt="Sample Promo" /></a>
 </p>
 
 <br />
