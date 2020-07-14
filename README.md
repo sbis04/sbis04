@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <a href="https://codemagic.io/flutter-libraries-ebook"><img src="https://github.com/sbis04/sbis04/raw/master/images/flutter_ebook_promo.png" alt="Promo" /></a>
+</p>
+
+<p align="center">
   <a href="https://twitter.com/sbis04"><img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/sbis04"><img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/channel/UCd1b8wa9b22phD5NuH-VPaA"><img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/youtube_ic.png" alt="YouTube" /></a>   
