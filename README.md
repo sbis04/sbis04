@@ -14,12 +14,12 @@
   <a href="https://codemagic.io/flutter-libraries-ebook"><img src="https://github.com/sbis04/sbis04/raw/master/images/flutter_ebook_promo.png" alt="Promo" /></a>
 </p>
 
-<br />
-<br />
-
 <p align="center">
   <a href="https://codemagic.io/flutter-libraries-ebook"><img src="https://github.com/sbis04/sbis04/raw/master/images/sample_apps_promo.png" alt="Sample Promo" /></a>
 </p>
+
+<br />
+<br />
 
 <p align="center">
   <a href="https://twitter.com/sbis04"><img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" /></a>
