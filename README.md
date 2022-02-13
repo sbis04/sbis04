@@ -2,7 +2,7 @@
   <a href="https://www.souvikbiswas.com"><img src="https://github.com/sbis04/sbis04/raw/master/images/header_no_shadow.png" alt="Header" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://blog.codemagic.io"><img src="https://github.com/sbis04/sbis04/raw/master/images/role_header_2.png" alt="Role" /></a>
 </p>
 
@@ -19,7 +19,7 @@
 </p>
 
 <br />
-<br />
+<br /> -->
 
 <p align="center">
   <a href="https://twitter.com/sbis04"><img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" /></a>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sbis04?tab=repositories"><img src="https://github.com/sbis04/sbis04/raw/master/images/bottom_bar.png" alt="Role" /></a>
+  <a href="https://github.com/sbis04?tab=repositories"><img width=890 src="https://github.com/sbis04/sbis04/raw/master/images/bottom_bar.png" alt="Role" /></a>
 </p>
 
 <!-- Hi there! -->
