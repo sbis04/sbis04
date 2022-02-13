@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.souvikbiswas.com"><img src="https://github.com/sbis04/sbis04/raw/master/images/header_no_shadow.png" alt="Header" /></a>
+  <a href="https://www.souvikbiswas.com"><img src="https://github.com/sbis04/sbis04/raw/master/images/github_profile_banner.png" alt="Header" /></a>
 </p>
 
 <!-- <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <br />
-<br /> -->
+<br />
 
 <p align="center">
   <a href="https://twitter.com/sbis04"><img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" /></a>
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/sbis04?tab=repositories"><img width=890 src="https://github.com/sbis04/sbis04/raw/master/images/bottom_bar.png" alt="Role" /></a>
-</p>
+</p> -->
 
 <!-- Hi there! -->
 
